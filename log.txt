@@ -1,0 +1,99 @@
+May 04, 2018 11:34:17 PM main.java.util.MainTestNG main
+INFO: Logger Name: main.java.util.MainTestNG
+May 04, 2018 11:34:18 PM main.java.util.ExecuteTestCases setup
+INFO: main.java.util.ExecuteTestCasessetup() method called
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readTestCaseInExcel
+INFO: null
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: testCasePath==E:\telmar_automation_projects\Selenium-Automation-Framework\TestCases2.xlsx
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: total rows=76
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Login  Login_password  .//*[@id='login_Div']/form/input[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Login  CLICK_Login_button  btnLogin  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Select start-up Options  click_on_continue_button   .//*[@id='divStartupWindow']/div/div[2]/input  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Select start-up Options  CLICK_OK_button  //button[text()='OK']  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Select start-up Options  Refresh_page  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Select start-up Options  Click_on_Dont_Show_Again  //button[text()='OK']/preceding-sibling::button  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Select start-up Options  Validate  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations  compare_values  baseDefinition  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_Open_station_popup  select_station_from_down  baseDefinition  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_Open_station_popup  compare_values  window_wnd_title  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_search  compare_values  .//*[@id='kendoStations']/div[2]/table/tbody/tr[1]/td[2]/span  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_UI  open_View_columns  menu1  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_UI  Verify_available_column  .//*[@id='columns1']/ul/li  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_column_checked_functionality  BBC_Radio_2  //ancestor::td[span[text()='BBC Radio 2']]/preceding-sibling::td/input  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_column_checked_functionality  Radio_Aire  //ancestor::td[span[text()='Radio Aire']]/preceding-sibling::td/input  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_column_checked_functionality  validate_checkboxes  //u[text()='Clear All']  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Station_Clear_All_functionality  validate_checkboxe  window_wnd_title  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Station_Check_Cancel_Button_functionality  Validate  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Stations_Open_station_popup_again  select_station_from_down_again  baseDefinition  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_validation_message_for_Reach_Analysis   verify_validation_msg  messageBoxContent  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_validation_message_for_Reach_Analysis   CLICK_OK_button_alert  //div[@id='messageBoxContent']/ancestor::*[position()=7]/following-sibling::div/div/div/button  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Station_reach_analysis  click_calculation_additional  calReachAnalysisTotals  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Station_reach_analysis  check_calculation  .//*[@id='StationAnalysistotal']/div[2]/table/tbody/tr[2]/td[1]/span  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO:  Demos_Search_Functionality  check_result  .//*[@id='kendoDemoGroups']/div[2]/table/tbody/tr  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO:  Demos_Search_Functionality  clear_text_box  .//*[@id='angularApp']/div/div[1]/div/input  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Demos_Validation_OK_without_checked_checkbox  Demos_click_on_alert  //div[@id='messageBoxContent']/ancestor::*[position()=7]/following-sibling::div/div/div/button  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Demos_cancel_button_functionality  Demos_verify_closed_popup  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Demos_Check_Scroll bar_functionality  Demos_moveup  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Demos_Check_Scroll bar_functionality  validate  .//*[@id='kendoDemoGroups']/div[2]/table/tbody/tr[1]/td/p  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Demos_checked_checkbox_functionality  validate  .//*[@id='kendoDemoGroups']/div[2]/table/tbody/descendant::span  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Open_Demo_Groups_popup
+  validatepoptitle  //span[text()='New Demo Group']  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_Validation_of_TitleTextbox_new_demos  click_on_save_button  closeReachAnalysisWin  ID
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_Validation_of_TitleTextbox_new_demos  click_on_OK_button_new_demos  //div[@id='messageBoxContent']/ancestor::*[position()=7]/following-sibling::div/div/div/button  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  click_on_TSA  //div[@id='createDemoGroup']/descendant::span[text()='Station TSA']/preceding-sibling::span[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  checked_Respondent  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  scrolling_to_webElement  //div[@id='createDemoGroup']/descendant::span[text()='Age Group']/preceding-sibling::span[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  click_on_Age_group  //div[@id='createDemoGroup']/descendant::span[text()='Age Group']/preceding-sibling::span[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  checked_Respondent_age  NA  NA
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  verify_select_check_box  //h5[text()='Select Choices']/parent::div/div/ul/li  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Create_Demo_Group  click_radio_button  .//*[@id='createDemoGroup']/div[2]/div[2]/input[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_Edit_Functionality_Demo_group  click_on_edit_icon  //span[text()='paxcel_user']/parent::td/following-sibling::td[3]/a[1]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: Check_functionality_delete_icon  click_on_delete_icon  //span[text()='ReName older Demo group']/parent::td/following-sibling::td[3]/a[2]  XPATH
+May 04, 2018 11:34:19 PM main.java.util.ExcelAction readCapturedObjectProperties
+INFO: check functionality_ No_and_Yes  click_on_yes  //div[@id='messageBoxContent']/ancestor::*[position()=7]/following-sibling::div/div/div/button[2]  XPATH
+May 04, 2018 11:34:20 PM main.java.util.ExecuteTestCases regression
+INFO: main.java.util.ExecuteTestCases TestCases to be executed    [[Ljava.lang.Object;@625732

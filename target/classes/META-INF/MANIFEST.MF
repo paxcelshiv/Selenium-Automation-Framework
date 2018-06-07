@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Built-By: Paxcel
+Class-Path: commons-codec-1.9.jar commons-logging-1.1.3.jar guice-3.0.
+ jar javax.inject-1.jar aopalliance-1.0.jar junit-4.11.jar hamcrest-co
+ re-1.3.jar log4j-1.2.17.jar poi-3.10.1.jar poi-examples-3.10.1.jar po
+ i-ooxml-3.10.1.jar dom4j-1.6.1.jar xml-apis-1.0.b2.jar poi-ooxml-sche
+ mas-3.10.1.jar poi-scratchpad-3.10.1.jar ooxml-schemas-1.3.jar report
+ ng-1.1.3.jar velocity-1.4.jar saxon-8.7.jar selenium-server-2.45.0.ja
+ r bcprov-jdk15on-1.48.jar bcpkix-jdk15on-1.48.jar mx4j-tools-3.0.1.ja
+ r servlet-api-2.5-6.1.9.jar jetty-repacked-7.6.1.jar jetty-rc-repacke
+ d-5.jar jcip-annotations-1.0.jar selenium-java-2.45.0.jar selenium-ch
+ rome-driver-2.45.0.jar selenium-remote-driver-2.45.0.jar cglib-nodep-
+ 2.1_3.jar gson-2.3.1.jar selenium-api-2.45.0.jar guava-18.0.jar selen
+ ium-htmlunit-driver-2.45.0.jar htmlunit-2.15.jar xalan-2.7.1.jar seri
+ alizer-2.7.1.jar commons-collections-3.2.1.jar commons-lang3-3.3.2.ja
+ r httpmime-4.3.3.jar htmlunit-core-js-2.15.jar xercesImpl-2.11.0.jar 
+ nekohtml-1.9.21.jar cssparser-0.9.14.jar sac-1.3.jar jetty-websocket-
+ 8.1.15.v20140411.jar jetty-util-8.1.15.v20140411.jar jetty-io-8.1.15.
+ v20140411.jar jetty-http-8.1.15.v20140411.jar httpclient-4.3.6.jar ht
+ tpcore-4.3.3.jar selenium-firefox-driver-2.45.0.jar commons-io-2.4.ja
+ r commons-exec-1.1.jar selenium-ie-driver-2.45.0.jar jna-3.4.0.jar pl
+ atform-3.4.0.jar selenium-safari-driver-2.45.0.jar selenium-support-2
+ .45.0.jar webbit-0.4.14.jar netty-3.5.2.Final.jar selenium-leg-rc-2.4
+ 5.0.jar snakeyaml-1.8.jar testng-6.8.jar bsh-2.0b4.jar jcommander-1.2
+ 7.jar velocity-dep-1.4.jar xmlbeans-2.6.0.jar stax-api-1.0.1.jar
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Main-Class: main.java.util.MainTestNG
+

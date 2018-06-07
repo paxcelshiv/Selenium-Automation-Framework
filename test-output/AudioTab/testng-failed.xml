@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AudioTab]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="main.java.util.TestListener"/>
+  </listeners>
+  <test name="AudioTab Test Cases(failed)">
+    <classes>
+      <class name="main.java.util.ExecuteTestCases">
+        <methods>
+          <include name="setup"/>
+          <include name="testSample"/>
+        </methods>
+      </class> <!-- main.java.util.ExecuteTestCases -->
+    </classes>
+  </test> <!-- AudioTab Test Cases(failed) -->
+</suite> <!-- Failed suite [AudioTab] -->
